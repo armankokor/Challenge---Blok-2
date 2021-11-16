@@ -1,0 +1,1 @@
+document.querySelector("#p,h1,logo2")
